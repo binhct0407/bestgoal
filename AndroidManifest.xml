@@ -2,7 +2,7 @@
     package="binh.app.bestgoal"
     android:versionCode="2"
     android:versionName="1.0" >
-    ////
+    ////add runtime permission
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
